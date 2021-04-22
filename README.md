@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[https://github-readme-stats.vercel.app/api?username=wwwx&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff](https://github-readme-stats.vercel.app/api?username=wwwx&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwx)](https://github.com/anuraghazra/github-readme-stats)
