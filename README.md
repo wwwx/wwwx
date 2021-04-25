@@ -32,8 +32,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Github Statistics
+
+<p align="left">
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=wwwx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwx&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wwwx&color=blue)
 ![Profile last updated](https://img.shields.io/github/last-commit/wwwx/wwwx?label=Last%20updated)
