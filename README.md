@@ -14,15 +14,19 @@ Visitor count<br>
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 
 
+
+
 ### My Github Statistics
 
 <p align="left">
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=wwwx&show_icons=true&theme=radical)](https://github.com/wwwx/github-readme-stats" />
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwx&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=wwwx&hide_title=true&show_icons=true&theme=gotham" alt="wwwx" />&nbsp;&nbsp;
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwx&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
-
 
 ![](https://activity-graph.herokuapp.com/graph?username=wwwx&theme=react-dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wwwx)
 ![Profile last updated](https://img.shields.io/github/last-commit/wwwx/wwwx?label=Last%20updated)
+
+
+
