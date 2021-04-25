@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-<p align="center">
+
+<!--  
+<p align="left">
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/wwwx/count.svg" />
 </p>
+-->
 
 <!--
-**wwwx/wwwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**wwwx/wwwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 Here are some ideas to get you started:
 
@@ -19,8 +24,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
 
 
-### Github Stats
+
+- 🌱 I’m currently learning Functional Programming and How to write an Open Source JavaScript Library
+- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=wwwx&color=blue)
+![Profile last updated](https://img.shields.io/github/last-commit/wwwx/wwwx/master?label=Last%20updated)
