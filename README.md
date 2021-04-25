@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wwwx&color=blue)
-![Profile last updated](https://img.shields.io/github/last-commit/wwwx/wwwx/master?label=Last%20updated)
+![Profile last updated](https://img.shields.io/github/last-commit/wwwx/wwwx?label=Last%20updated)
