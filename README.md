@@ -9,9 +9,10 @@ Visitor count<br>
 -->
 
 
-- 🌱 I’m currently learning Functional Programming and How to write an Open Source JavaScript Library
+- 🌱 I’m currently learning to use angular to develop my own resume
 - 💬 Interested in anything about Full stack
 <!--
+- 🌱 I’m currently learning Functional Programming and How to write an Open Source JavaScript Library
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 -->
