@@ -9,7 +9,7 @@ Visitor count<br>
 -->
 
 
-- 🌱 I’m currently learning to use angular to develop my own resume
+- 🌱 I’m currently learning to use angular to develop my portfolio
 - 💬 Interested in anything about Full stack
 <!--
 - 🌱 I’m currently learning Functional Programming and How to write an Open Source JavaScript Library
