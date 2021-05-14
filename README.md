@@ -11,7 +11,7 @@ Visitor count<br>
 
 - 🌱 I’m currently learning to use angular to develop my portfolio
 - 💬 Interested in anything about Full Stack
-- Favoriate nintendo game: Tetris99
+- 👯Favoriate nintendo game: Tetris99
 <!--
 - 🌱 I’m currently learning Functional Programming and How to write an Open Source JavaScript Library
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
